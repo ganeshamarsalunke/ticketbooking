@@ -1,0 +1,16 @@
+Functional Requirements :-
+
+1) New user Registration :-
+		 New user should register by using his / her name, email ID, mobile number, password. Users should be able to log in to the system using their email or mobile number.
+
+2) Booking :-
+	Users should be able to select seats for travel from a seating layout. The system should show the availability of seats. Users should be able to select multiple seats for booking.
+	
+3)  User Profile creation :- 
+	User should be able to view their booking history, ticket confirmation status, etc. User should able to view and update profile information including change their password if any issue in future.
+
+4) Online Payment Integration :-
+	Users should be able to select a payment method by using UPI, credit card, debit card, net banking, etc. The system should be safe and secure. The system should provide a receipt after successful payment.
+
+5)  Ticket Cancellation and Refund process :-
+	Users should be able to cancel their booked tickets and get refund amount based on rules and regulation. User get refund amount in certain time period.
